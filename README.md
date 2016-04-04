@@ -11,6 +11,12 @@
 
 ![ADM-dateTimePicker cover](http://amirkabirdataminers.github.io/ADM-dateTimePicker/images/cover.jpg)
 
+### Updates in V1.1.5
+* Inicialização do valor ng-model sob o padrão.
+* Tradução para postuguês
+
+---
+
 ### Updates in V1.1.0
 * Remove all other dependencies. (Bootstrap, Glyphicon, Fonts)
 * Add month and year quick select.
